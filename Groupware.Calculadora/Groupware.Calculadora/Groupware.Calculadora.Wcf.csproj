@@ -65,6 +65,9 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LogicaNegocio\Acciones\Sumar.cs" />
+    <Compile Include="LogicaNegocio\Validaciones\Operadores.cs" />
+    <Compile Include="LogicaNegocio\Validaciones\Suma.cs" />
     <Compile Include="MiCalculadora.svc.cs">
       <DependentUpon>MiCalculadora.svc</DependentUpon>
     </Compile>
@@ -73,6 +76,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="LogicaNegocio\Especificaciones\" />
+    <Folder Include="LogicaNegocio\Repositorio\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Web.Debug.config">

@@ -22,7 +22,8 @@ namespace Groupware.Calculadora
         // TODO: Add your service operations here
 
         [OperationContract]
-        double OperadorBinario();
+        double OperadorBinario(string operador, double operando, double operandoDos);
+        double OperadorUnario(string operador, double operando);
     }
 
 

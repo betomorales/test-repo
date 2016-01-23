@@ -29,5 +29,19 @@ namespace Groupware.Calculadora
             }
             return composite;
         }
+
+        public double OperadorBinario(string operador, double operando, double operandoDos)
+        {
+            double resultado = 0.0;
+            return (resultado);
+
+        }
+        public double OperadorUnario(string operador, double operando)
+        {
+            double resultado = 0.0;
+            return (resultado);
+
+        }
+
     }
 }

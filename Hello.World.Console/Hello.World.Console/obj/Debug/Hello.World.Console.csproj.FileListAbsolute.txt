@@ -1,0 +1,1 @@
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Console\bin\Debug\Hello.World.Console.exe.config

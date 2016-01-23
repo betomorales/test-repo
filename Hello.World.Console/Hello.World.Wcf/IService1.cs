@@ -31,7 +31,7 @@ namespace Hello.World.Wcf
     public class CompositeType
     {
         bool boolValue = true;
-        string stringValue = "Hello ";
+        string stringValue = "Hello World";
 
         [DataMember]
         public bool BoolValue

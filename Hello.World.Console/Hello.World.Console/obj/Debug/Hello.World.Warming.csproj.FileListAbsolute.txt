@@ -1,0 +1,6 @@
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Console\bin\Debug\Hello.World.Console.exe.config
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Console\bin\Debug\Hello.World.Console.exe
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Console\bin\Debug\Hello.World.Console.pdb
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Console\obj\Debug\Hello.World.Warming.csprojResolveAssemblyReference.cache
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Console\obj\Debug\Hello.World.Console.exe
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Console\obj\Debug\Hello.World.Console.pdb

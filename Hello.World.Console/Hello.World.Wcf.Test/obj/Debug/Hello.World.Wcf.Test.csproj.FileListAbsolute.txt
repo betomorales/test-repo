@@ -1,0 +1,7 @@
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf.Test\bin\Debug\Hello.World.Wcf.Test.dll.config
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf.Test\bin\Debug\Hello.World.Wcf.Test.dll
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf.Test\bin\Debug\Hello.World.Wcf.Test.pdb
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf.Test\obj\Debug\Hello.World.Wcf.Test.csprojResolveAssemblyReference.cache
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf.Test\obj\Debug\Hello.World.Wcf.Test.dll
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf.Test\obj\Debug\Hello.World.Wcf.Test.pdb

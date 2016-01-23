@@ -1,0 +1,6 @@
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf\bin\Hello.World.Wcf.dll.config
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf\bin\Hello.World.Wcf.dll
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf\bin\Hello.World.Wcf.pdb
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf\obj\Debug\Hello.World.Wcf.csprojResolveAssemblyReference.cache
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf\obj\Debug\Hello.World.Wcf.dll
+C:\Users\laboratorio\Source\Repos\test-repo\Hello.World.Console\Hello.World.Wcf\obj\Debug\Hello.World.Wcf.pdb

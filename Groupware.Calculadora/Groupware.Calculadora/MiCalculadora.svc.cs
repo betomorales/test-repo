@@ -33,6 +33,10 @@ namespace Groupware.Calculadora
         public double OperadorBinario(string operador, double operando, double operandoDos)
         {
             double resultado = 0.0;
+            var elOperador = new LogicaNegocio.Especificaciones.ObtenerOperador();
+            LogicaNegocio.Enumerados.Operadores miOperador = elOperador.obtenerElOperador(operador);
+            var laOperacion = new LogicaNegocio.Especificaciones.RealizarOperacionBinaria(miOperador, operando, operandoDos);
+
             return (resultado);
 
         }

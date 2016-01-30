@@ -12,6 +12,13 @@ namespace Groupware.Calculadora.LogicaNegocio.Validaciones
 
             Enumerados.Operadores resultado;
             resultado = Enumerados.Operadores.Desconocido;
+            switch (elOperador)
+            {
+                case "+": resultado = Enumerados.Operadores.Suma;
+                    break;
+            }
+
+
             return resultado;
 
         }

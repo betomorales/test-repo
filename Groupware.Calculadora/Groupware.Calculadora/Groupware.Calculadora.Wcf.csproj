@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LogicaNegocio\Acciones\Sumar.cs" />
+    <Compile Include="LogicaNegocio\Enumerados\Operadores.cs" />
     <Compile Include="LogicaNegocio\Validaciones\Operadores.cs" />
     <Compile Include="LogicaNegocio\Validaciones\Suma.cs" />
     <Compile Include="MiCalculadora.svc.cs">

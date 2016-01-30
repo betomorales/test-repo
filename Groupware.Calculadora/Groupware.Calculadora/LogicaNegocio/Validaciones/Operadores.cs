@@ -7,10 +7,11 @@ namespace Groupware.Calculadora.LogicaNegocio.Validaciones
 {
     public class Operadores
     {
-        public Boolean EsUnOperadorReconocido(String elOperador)
+        public Enumerados.Operadores ObtenerOperador(String elOperador)
         {
 
-            Boolean resultado = true;
+            Enumerados.Operadores resultado;
+            resultado = Enumerados.Operadores.Desconocido;
             return resultado;
 
         }

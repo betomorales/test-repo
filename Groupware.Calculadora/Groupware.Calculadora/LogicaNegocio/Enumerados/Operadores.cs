@@ -8,6 +8,6 @@ namespace Groupware.Calculadora.LogicaNegocio.Enumerados
 {
     public enum Operadores
     {
-        Desconocido, Suma 
+        Desconocido, Suma, Resta, Multiplicacion, Division 
     }
 }

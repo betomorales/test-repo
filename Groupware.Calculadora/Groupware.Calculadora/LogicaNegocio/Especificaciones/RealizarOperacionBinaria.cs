@@ -21,6 +21,14 @@ namespace Groupware.Calculadora.LogicaNegocio.Especificaciones
                     var laSuma = new Suma();
                     resultado = laSuma.Calculo(operando, operandoDos);
                     break;
+
+                case Enumerados.Operadores.Multiplicacion:
+                    var laMultiplicacion = new Multiplicacion();
+                    resultado = laMultiplicacion.Calculo(operando, operandoDos);
+                    break;      
+
+
+
             }
             return resultado;
         }

@@ -1,23 +1,28 @@
-﻿using Groupware.Calculadora.LogicaNegocio.Enumerados;
+﻿//using Groupware.Calculadora.LogicaNegocio.Validaciones;
+
+using Groupware.Calculadora.LogicaNegocio.Enumerados;
 using Groupware.Calculadora.LogicaNegocio.Validaciones;
 
 namespace Groupware.Calculadora.LogicaNegocio.Especificaciones
 {
     internal class RealizarOperacionBinaria
     {
-        private Operadores miOperador;
-        private double operando;
-        private double operandoDos;
+       // private Enumerados.Operadores miOperador;
+      //  private double operando;
+       // private double operandoDos;
 
-        public RealizarOperacionBinaria(Operadores miOperador, double operando, double operandoDos)
+        public double RealizarLaOperacionBinaria(Enumerados.Operadores miOperador, double operando, double operandoDos)
         {
+            double resultado = 0.0;
             switch (miOperador)
             {
 
-                case Suma: var laSuma = new LogicaNegocio.Especificaciones.Suma();
-                    resultado = laSuma.calculo(operando, operandoDos);
+                case Enumerados.Operadores.Suma:
+                    var laSuma = new Suma();
+                    resultado = laSuma.Calculo(operando, operandoDos);
                     break;
             }
+            return resultado;
         }
     }
 }

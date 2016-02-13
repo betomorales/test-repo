@@ -22,10 +22,20 @@ namespace Groupware.Calculadora.LogicaNegocio.Especificaciones
                     resultado = laSuma.Calculo(operando, operandoDos);
                     break;
 
-                case Enumerados.Operadores.Multiplicacion:
-                    var laMultiplicacion = new Multiplicacion();
-                    resultado = laMultiplicacion.Calculo(operando, operandoDos);
-                    break;      
+
+                case Enumerados.Operadores.Resta:
+                    var laResta = new Resta();
+                    resultado = laResta.Calculo(operando, operandoDos);
+                    break;
+
+
+                    /*case Enumerados.Operadores.Multiplicacion:
+                        var laMultiplicacion = new Multiplicacion();
+                        resultado = laMultiplicacion.Calculo(operando, operandoDos);
+                        break;
+                        */
+
+
 
 
 

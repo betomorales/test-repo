@@ -16,10 +16,16 @@ namespace Groupware.Calculadora.LogicaNegocio.Validaciones
             {
                 case "+": resultado = Enumerados.Operadores.Suma;
                     break;
+
+
+                case "-":
+                    resultado = Enumerados.Operadores.Resta;
+                    break;
             }
+        
 
 
-            return resultado;
+            return (resultado);
 
         }
         

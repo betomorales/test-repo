@@ -66,11 +66,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LogicaNegocio\Acciones\Multiplicar.cs" />
+    <Compile Include="LogicaNegocio\Acciones\Restar.cs" />
     <Compile Include="LogicaNegocio\Especificaciones\RealizarOperacionBinaria.cs" />
     <Compile Include="LogicaNegocio\Acciones\Sumar.cs" />
     <Compile Include="LogicaNegocio\Enumerados\Operadores.cs" />
     <Compile Include="LogicaNegocio\Especificaciones\ObtenerOperador.cs" />
     <Compile Include="LogicaNegocio\Validaciones\Operadores.cs" />
+    <Compile Include="LogicaNegocio\Validaciones\Resta.cs" />
     <Compile Include="LogicaNegocio\Validaciones\Suma.cs" />
     <Compile Include="MiCalculadora.svc.cs">
       <DependentUpon>MiCalculadora.svc</DependentUpon>

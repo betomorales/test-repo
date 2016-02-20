@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\laboratorio\Source\Repos\Topicos-1-16\Entity.Framework.Warming\Entity.Framework.warming.model\Adventure.Works.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\laboratorio\Source\Repos\test-repo\Entity.Framework.Warming\Entity.Framework.warming.model\Adventure.Works.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity.Framework.Warming", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity.Framework.warming.model", "Entity.Framework.warming.model\Entity.Framework.warming.model.csproj", "{A32DE1AD-D8A8-46EC-86B4-6B831F47D0D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity.Framework.Warming.BL.EF", "Entity.Framework.Warming.BL.EF\Entity.Framework.Warming.BL.EF.csproj", "{17E02A77-79B9-4F56-B7D9-1D0CBD6538FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity.Framework.Warming.BL.EF.Tests", "Entity.Framework.Warming.BL.EF.Tests\Entity.Framework.Warming.BL.EF.Tests.csproj", "{0657376F-D496-4AC3-9504-AC9BF891BB6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A32DE1AD-D8A8-46EC-86B4-6B831F47D0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A32DE1AD-D8A8-46EC-86B4-6B831F47D0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A32DE1AD-D8A8-46EC-86B4-6B831F47D0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E02A77-79B9-4F56-B7D9-1D0CBD6538FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E02A77-79B9-4F56-B7D9-1D0CBD6538FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E02A77-79B9-4F56-B7D9-1D0CBD6538FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E02A77-79B9-4F56-B7D9-1D0CBD6538FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0657376F-D496-4AC3-9504-AC9BF891BB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0657376F-D496-4AC3-9504-AC9BF891BB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0657376F-D496-4AC3-9504-AC9BF891BB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0657376F-D496-4AC3-9504-AC9BF891BB6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

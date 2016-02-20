@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entity.Framework.warming.model.Modelo
+namespace Entity.Framework.Warming.Model.Modelo
 {
     class Products : Product
     {
